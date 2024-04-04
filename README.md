@@ -7,6 +7,6 @@ In this project, I used **HTML, CSS, React.js, Tailwind CSS, Redux, and local st
 
 To set up the project:
 
-1. Run **npm install** to install the node_modules.
+1. Run ``npm install`` to install the node_modules.
 2. To run the project: Use the command ``npm run dev`` to start the development server.
 
