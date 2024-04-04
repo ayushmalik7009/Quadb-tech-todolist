@@ -1,12 +1,8 @@
+# React + Vite
 
-# Quadb-tech-todolist
-My name is Ayush Malik. First of all, thanks for giving me this opportunity. This project is a todo list app deployed at this link.
-[Deployed LInk](https://ayushmaliktodolist.netlify.app/)
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-In this project, I used **HTML, CSS, React.js, Tailwind CSS, Redux, and local storage**.
+Currently, two official plugins are available:
 
-To set up the project:
-
-1. Run ``npm install`` to install the node_modules.
-2. To run the project: Use the command ``npm run dev`` to start the development server.
-
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
